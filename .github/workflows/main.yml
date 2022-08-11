@@ -10,7 +10,7 @@ jobs:
       fail-fast: false
       matrix:
         projectPath:
-          - Binding-of-Isaac-clone
+          - Binding of Isaac clone
         testMode:
           - playmode
           - editmode
